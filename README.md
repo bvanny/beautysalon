@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-   :book: Nlw - beautysalon
+   :scissors: Nlw - beautysalon
 </h1>
 
 ## 📃 Sobre o projeto
