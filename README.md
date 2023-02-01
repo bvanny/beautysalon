@@ -3,6 +3,10 @@
    :scissors: Nlw - beautysalon
 </h1>
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+</p>
+
 ## 📃 Sobre o projeto
 
 ###### Projeto desenvolvido no evento NlwOrigin, beautysalon é uma pagina institucional no formato One Page, responsiva.
@@ -25,3 +29,6 @@ e também o uso da Lib Swiperjs, que é suportado por varios frameworks para a c
 ## :eyeglasses: Deploy
 
 - [beautysalon.](https://beautysalon-nlw06.netlify.app/)
+
+## 📝 Licença
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://github.com/BrunoBelarminoNog/Ecoleta_NLW/blob/master/LICENSE) para saber mais.
